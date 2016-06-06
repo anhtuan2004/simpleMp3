@@ -1,0 +1,13 @@
+{
+  "name": "at_mp3_palyer",
+  "version": "1.0.0",
+  "description": "Store theme",
+  "author": "charlie",
+  "private": true,
+  "devDependencies": {
+        "grunt": "latest",
+        "grunt-contrib-clean": "latest",
+        "grunt-sass": "latest",
+        "grunt-contrib-watch": "latest"
+    }
+}
